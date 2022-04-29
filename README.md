@@ -4,4 +4,4 @@ Primeiro desafio de projeto sobre Git e GitHub
 
 
 ## Links Úteis:
-[Sintaxe do Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe do Markdown](https://www.markdownguide.org/basic-syntax/)
