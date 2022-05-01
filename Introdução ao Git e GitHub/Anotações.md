@@ -66,3 +66,12 @@ Git status: comando que identifica o status do arquivo (untracked, modified)
  Git config –list 
 
 -unset "modificação" 
+
+
+
+REFORÇANDO:
+
+- git status
+- git add "Nome do arquivo"
+- git commit -m "Qual alteração foi feita"
+- git push origin master
