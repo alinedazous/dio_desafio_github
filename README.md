@@ -4,4 +4,5 @@ Primeiro desafio de projeto sobre Git e GitHub
 
 
 ## Links Úteis:
-[Sintaxe do Markdown](https://www.markdownguide.org/basic-syntax/)
+<br>[Sintaxe do Markdown](https://www.markdownguide.org/basic-syntax/)
+<br>[Atalhos do Intellij](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
